@@ -12,7 +12,7 @@ This repository contains a Python script that demonstrates how to encrypt and de
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/RahulPatil-Tech/PDF_Encryption_and_Decryption_With_Python.git
+   git clone https://github.com/RahulPatil-Tech/PDF_Encryption_and_Decryption_with_Python.git
    ```
 2. Navigate to the project directory:
    ```shell
